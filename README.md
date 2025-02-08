@@ -27,3 +27,7 @@ the back of the cards.
 -w --wildcards=<n>  Number of wildcards to generate [default: 5]
 -d --delimiter=<c>  Character to use as delimiter [default: ,]
 ```
+
+## Example
+
+Example output designed for a game involving both Strudel and Hydra can be seen in: [cards.pdf](cards.pdf)
