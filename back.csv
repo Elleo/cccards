@@ -1,0 +1,33 @@
+add,1
+blend,1
+bpm,1
+color,4
+diff,1
+fast,1
+fft,1
+gradient,3
+hush,3
+initCam + src,2
+initImage,2
+initScreen + src,2
+initVideo,2
+kaleid,5
+layer,3
+luma,2
+mask,2
+modulate,5
+mult,1
+noise,5
+osc,5
+pixelate,3
+posterize,3
+render,3
+repeat,2
+rotate,2
+scale,2
+scroll,2
+shape,4
+shift,2
+solid,2
+thresh,1
+voronoi,3
