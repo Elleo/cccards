@@ -102,7 +102,7 @@ class DeckBuilder:
         side = self.front_cards
         while page < total_pages:
             pdf.add_page()
-            pdf.ln(10)
+            pdf.ln(15)
             cell = 0
             card_in_row = 1
             for card in side[page * self.CARDS_PER_PAGE:(page+1) * self.CARDS_PER_PAGE]:
